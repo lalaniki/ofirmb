@@ -17,7 +17,7 @@ export default class AloeConfig extends Object {
   constructor() {
     super();
     this.token =
-      "OTkyMzE3Nzc0NTE0ODgwNTQy.GZvhoa.QGo_MBjVl3Yqn2DczdfMvQAr0yPEDVQxeUeRck";
+      "MTA4MjUzODA4ODc5MTgxMDA2OA.GEXGQ2.8D5j7k2NDKtzrk5S-a3uFBa4Y5k_uPV3dMYF0I";
     this.prefix = "+";
     this.nodes = [
       {
